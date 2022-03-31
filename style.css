@@ -55,3 +55,9 @@ button:hover{
 .operator:hover, .equal-sign:hover{
     background-color: darkorange;
 } 
+
+.section-title {
+    line-height:normal;
+    clear:both;
+    text-align:center;
+  }
